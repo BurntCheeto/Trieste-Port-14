@@ -37,3 +37,14 @@
   targetNode: memory_cell
   category: construction-category-tools
   objectType: Item
+
+- type: construction
+  name: desk bell
+  id: DeskBell
+  graph: BellGraph
+  startNode: start
+  targetNode: deskBell
+  category: construction-category-tools
+  description: A bell for getting someone's attention.
+  icon: { sprite: Objects/Misc/desk_bell.rsi, state: icon_bell }
+  objectType: Item
