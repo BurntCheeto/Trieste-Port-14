@@ -141,24 +141,26 @@
   name: bureaucracy crate
   description: Several stacks of paper, a few pens and an office toy. What more could you ask for?
   components:
-  - type: StorageFill
-    contents:
-    - id: Paper
-      amount: 12
-    - id: PaperOffice
-      amount: 6
-    - id: Pen
-      amount: 2
-    - id: BoxFolderClipboardEmpty
-      amount: 2
-    - id: HandLabeler
-    - id: BoxFolderBlueEmpty
-    - id: BoxFolderRedEmpty
-    - id: BoxFolderYellowEmpty
-    - id: NewtonCradle
-    - id: BoxEnvelope
-    - id: BrbSign
-    - id: DeskBell
+  - type: EntityTableContainerFill
+    containers:
+      entity_storage: !type:AllSelector
+        children:
+        - id: Paper
+          amount: 12
+        - id: PaperOffice
+          amount: 6
+        - id: Pen
+          amount: 2
+        - id: BoxFolderClipboardEmpty
+          amount: 2
+        - id: HandLabeler
+        - id: BoxFolderBlueEmpty
+        - id: BoxFolderRedEmpty
+        - id: BoxFolderYellowEmpty
+        - id: NewtonCradle
+        - id: BoxEnvelope
+        - id: BrbSign
+        - id: DeskBell
 
 - type: entity
   id: CrateServiceFaxMachine
