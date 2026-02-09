@@ -1,5 +1,5 @@
 - type: guideEntry
-  id: SpaceLaw
+  id: TPSpaceLaw
   name: guide-entry-tp-space-law
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/space-law.xml"
   children:
