@@ -1,6 +1,7 @@
 - type: guideEntry
   id: TPSpaceLaw
   name: guide-entry-tp-space-law
+  priority: 20
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/space-law.xml"
   children:
   - CrimeList
