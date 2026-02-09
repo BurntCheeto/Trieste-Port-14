@@ -1,0 +1,30 @@
+- type: guideEntry
+  id: SpaceLaw
+  name: guide-entry-tp-space-law
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/space-law.xml"
+  children:
+  - CrimeList
+  - PrisonerRights
+  - Sentencing
+  - Searches
+  - ImplantDevices
+
+- type: guideEntry
+  id: PrisonerRights
+  name: guide-entry-prisoner-rights
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/prisoner-rights.xml"
+
+- type: guideEntry
+  id: Sentencing
+  name: guide-entry-sentencing
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/sentencing.xml"
+
+- type: guideEntry
+  id: Searches
+  name: guide-entry-searches
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/searches.xml"
+
+- type: guideEntry
+  id: Implant Devices
+  name: guide-entry-implant-devices
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/implant-devices.xml"
