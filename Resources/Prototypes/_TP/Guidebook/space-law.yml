@@ -10,6 +10,11 @@
   - ImplantDevices
 
 - type: guideEntry
+  id: CrimeList
+  name: guide-entry-crime-list
+  text: "/ServerInfo/_TP/Guidebook/SpaceLaw/crime-list.xml"
+
+- type: guideEntry
   id: PrisonerRights
   name: guide-entry-prisoner-rights
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/prisoner-rights.xml"
@@ -25,6 +30,6 @@
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/searches.xml"
 
 - type: guideEntry
-  id: Implant Devices
+  id: ImplantDevices
   name: guide-entry-implant-devices
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/implant-devices.xml"
