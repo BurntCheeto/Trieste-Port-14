@@ -1,6 +1,6 @@
 - type: guideEntry
   id: TPSpaceLaw
-  name: guide-entry-tp-space-law
+  name: Space Law
   priority: 20
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/space-law.xml"
   children:
@@ -12,25 +12,25 @@
 
 - type: guideEntry
   id: CrimeList
-  name: guide-entry-crime-list
+  name: Crime List
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/crime-list.xml"
 
 - type: guideEntry
   id: PrisonerRights
-  name: guide-entry-prisoner-rights
+  name: Prisoner Rights
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/prisoner-rights.xml"
 
 - type: guideEntry
   id: Sentencing
-  name: guide-entry-sentencing
+  name: Sentencing
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/sentencing.xml"
 
 - type: guideEntry
   id: Searches
-  name: guide-entry-searches
+  name: Searches
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/searches.xml"
 
 - type: guideEntry
   id: ImplantDevices
-  name: guide-entry-implant-devices
+  name: Implant Devices
   text: "/ServerInfo/_TP/Guidebook/SpaceLaw/implant-devices.xml"
