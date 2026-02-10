@@ -1,6 +1,20 @@
 <Document>
   # Search and Seizure
-  A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, and pockets. If any contraband is found during a search, the officer may choose to further the search into a detainment or simply confiscate the restricted items. Non-restricted items may be seized by Security if they were used to facilitate a crime. After the search is conducted, all legal items are to be returned to the person. A crewmate may legally decline any search conducted without probable cause or a warrant while the alert level is green. It should be noted that if the alert level is blue or above, all personnel searches are legal.
 
-  A departmental search is the sweep of an entire area or department for contraband. It is recommended that the officers be extremely thorough, checking all lockers, crates, and doors. These can only be done with permission or, ideally, a warrant signed by the department head or highest-ranking command staff, which is the captain in most cases.
-</Document>
+  Security may conduct searches of any person or department should it be deemed necessary. Searches can only be done once approved by either the Marshal or the Overseer.
+
+  ## Personnel
+  Security must inform the suspect of why they are being searched. The search should be conducted either in the brig or in an isolated area. If the suspect does not comply, non-lethals and restraints may be applied. 
+  Officers may check any pouch, belt, back, or other storage item on a person. If any contraband is found, it must be secured until the search is complete. If the contraband warrants arrest, then Officers may arrest the suspect.
+  Otherwise, release the suspect and take contraband back to the brig.
+
+  ## Departments
+  Inform the department that a search will be conducted. Any persons who are not part of the department should be escorted out. If anyone responsible for the department is available, inform them of the reason for the search.
+  If no one with access to the department is available, then forceful overriding of the doors is permitted. 
+  Once access is available, search the whole department thoroughly. Any contraband must be secured.
+  When completed, restore any overrides or damage done, bring contraband to the brig, and reopen the department.
+
+  ## Confiscated Contraband
+  Officers may not be permitted to use any items, chemicals, or weapons confiscated during searches. This restriction may only be lifted if extreme, hostile force is present on the rig and the use of such items are deemed beneficial.
+  Otherwise, all contraband confiscated by Officers is considered evidence and must be stored in either an evidence locker or the armory.  
+  </Document>

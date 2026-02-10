@@ -1,10 +1,31 @@
 <Document>
  # Sentencing
-  From a server rules perspective, security officers are only responsible for ensuring that they only place sentences over 15 minutes where space law would allow permanent confinement. Informing the Warden is highly recommended, even for timed sentences. As long as those requirements are met, security officers not giving inappropriate sentence lengths is considered an in-character issue, not a rule issue.
+  Security teams should ensure that they are only placing sentences exceeding 20 minutes where the prisoner is otherwise eligible for permanent confinement. Prisoners already serving a sentence can always have their sentence increased if they commit crimes in the brig. 
+  The Marshal and Warden must ensure that prisoners are given fair sentences, and work to correct any inappropriate sentence.
+  Unreasonable failures to ensure just punishment is liable to intervention by SolGov.  
 
-  The captain, HOS, and warden are responsible, within reason, for ensuring security officers place appropriate sentences that follow space law. If they are aware of an inappropriate sentence, including excessively long sentences, and if there is not an urgent threat or danger that they must prioritize, then they must work to correct that sentence. Unreasonable failures, as determined by game admins, of the captain, HOS, or warden to ensure space law is followed will be considered a rule issue, not an in-character issue.
+  Follow common sense when determining sentences for prisoners. Follow the spirit of the law, rather than the exact wording. You do not have to find the harshest possible sentence, only the punishment that is fair for the prisoner to learn their lesson.
+  For example, a citizen tresspassing can simply be escorted out and warned, instead of being arrested. A cooperative prisoner can be given a slightly reduced sentence.
 
-  Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Prisoners cooperating and on good behavior should have their sentences reduced. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  ## Charging Order 
+  Charging and processing should be done by the first available person in the following order:
+  - Warden
+  - Marshal
+  - Uninvolved Officer
+  - Arresting Officer
+  - Overseer
+  If none of the above are available, the Cadets may step in to charge prisoners. Any person on the list may defer to the next in line if they are urgently needed elsewhere. This provision should be used sparingly.
+
+  ## Sentencing Procedure 
+  - The Arresting Officer should leave the suspect in the holding cell until someone comes to process the prisoner.
+  - The processor must determing the charges and sentence for the prisoner
+  - Inform the prisoner of their charges and sentence, and move them to the genpop lockers
+  - If the sentence is 15 minutes or longer, inform them of their right to appeal. If the sentence is permanent confinement, inform them of the option of parole.
+  - Remove all of their belongings, including uniform, PDA, and headset. 
+  - Provide them with the orange jumpsuit and common radio headset. 
+  - Search their belongings. Confiscate any contraband and store it in a seperate evidence locker. 
+  - Input their name, sentence, and charges in their locker. Provide them with their prisoner ID.
+  - Bring the prisoner into the brig, then remove their restraints.
 
   [color=#a4885c]Stackable Crimes:[/color] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime. Linked crimes, shown in matching colors and suffixes on the Quick Crime Guide, can not be stacked and instead override each other, you should pick the highest crime that matches the case.
 
@@ -17,7 +38,7 @@
 
   ## Normal Punishments
   - [color=#a4885c]Warning:[/color] For minor crimes, fix the issue, then warn the person not to attempt the crime again. If they still proceed to do it at a later date, a brig time may be better.
-  - [color=#a4885c]Confinement:[/color] The typical punishment, being confined in a cell for a temporary amount of time according to the crimes.
+  - [color=#a4885c]Confinement:[/color] The typical punishment, being confined in the brig for a temporary amount of time according to the crimes.
   - [color=#a4885c]Demotion:[/color] Entails removing all departmental gear they have on their person and revoking the involved department access off their ID. This requires the captain's or involved department head's approval. Demotions should only be issued if the person pose a threat to their own department or are in a position where they have/can abuse their job's gear to commit further crimes.
 
   ## Major Punishments

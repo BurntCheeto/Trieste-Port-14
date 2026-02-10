@@ -36,7 +36,6 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Animal Cruelty
       </Box>
     </ColorBox>
     <ColorBox Color="#593a4e">
@@ -92,7 +91,7 @@
         01
       </Box>
     </ColorBox>
-    <ColorBox>
+    <ColorBox Color="#2f3832">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Possession: Class 1 Chems (P)
       </Box>
@@ -124,17 +123,17 @@
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
       </Box>
     </ColorBox>
-    <ColorBox>
+    <ColorBox Color="#70978b">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
       Production: Class 1 Chems (C)
       </Box>
     </ColorBox>
-    <ColorBox Color="#82a899">
+    <ColorBox Color="#70978b">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Production: Class 2 Chems (C)
       </Box>
     </ColorBox>
-    <ColorBox Color="#82a899">
+    <ColorBox Color="#70978b">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Production: Class 3 Chems (C)
       </Box>
@@ -173,7 +172,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        03
+        04
       </Box>
     </ColorBox>
     <ColorBox Color="#453a59">
@@ -202,7 +201,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        04
+        05
       </Box>
     </ColorBox>
     <ColorBox Color="#59563a">
@@ -229,7 +228,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        05
+        06
       </Box>
     </ColorBox>
     <ColorBox>
@@ -258,7 +257,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        06
+        07
       </Box>
     </ColorBox>
     <ColorBox>
@@ -286,7 +285,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        07
+        08
       </Box>
     </ColorBox>
     <ColorBox Color="#3b4354">
@@ -314,7 +313,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        08
+        09
       </Box>
     </ColorBox>
     <ColorBox>
@@ -341,7 +340,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-      09
+      10
       </Box>
     </ColorBox>
     <ColorBox>
@@ -352,23 +351,23 @@
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
       </Box>
     </ColorBox>
-    <ColorBox>
+    <ColorBox Color="#9c682f">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Misusing Authority: Dept Head (M)
+        Misusing Authority Major (M)
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#9c682f">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        Misusing Authority Extreme (M)
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Misusing Authority: Overseer and Sec (M)
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-       10
+       11
       </Box>
     </ColorBox>
   </Table>
@@ -399,7 +398,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Minor Contraband
+        Possession of Minor Contra
       </Box>
     </ColorBox>
     <ColorBox>
@@ -415,6 +414,26 @@
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         1-01
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        Possession of Class 1 Chems
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        To hold or use Class 1 chems without authorization.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        This includes job specific reagents like Unstable Mutagen. These may be authorized by job necessity (botany needs mutagen) or the CMO.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        1-02
       </Box>
     </ColorBox>
     <ColorBox>
@@ -437,7 +456,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1-02
+        1-04
       </Box>
     </ColorBox>
     <ColorBox>
@@ -458,7 +477,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1-03
+        1-05
       </Box>
     </ColorBox>
     <ColorBox>
@@ -478,7 +497,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1-04
+        1-06
       </Box>
     </ColorBox>
     <ColorBox>
@@ -499,7 +518,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1-07
+        1-09
       </Box>
     </ColorBox>
     <ColorBox>
@@ -518,7 +537,7 @@
     </ColorBox>
     <ColorBox>
         <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1-08
+        1-10
         </Box>
     </ColorBox>
   </Table>
@@ -570,7 +589,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Possession/Use of Major Contraband
+        Possession of Major Contra
       </Box>
     </ColorBox>
     <ColorBox>
@@ -609,6 +628,26 @@
       </Box>
     </ColorBox>
     <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          Production of Class 1 Chems
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          To have made Class 1 contraband chemicals without authorization.
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          These can be authorized by job necessity (ex: botany needs mutagen), or by the CMO
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        2-03
+        </Box>
+    </ColorBox>
+    <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Damage/Destruction of Property
       </Box>
@@ -626,7 +665,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        2-03
+        2-05
       </Box>
     </ColorBox>
     <ColorBox>
@@ -646,7 +685,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        2-05
+        2-07
       </Box>
     </ColorBox>
   </Table>
@@ -719,6 +758,46 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        Possession of Class 3 Chems
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        To hold or use Class 3 contraband chemicals without authorization.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        This includes stimulants like Desoxyephedrine. 
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        3-02
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        Production of Class 2 Chems
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        To produce Class 2 Contraband chemicals without authorization.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        The CMO and Overseer or Marshal may authorize production.
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        3-03
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Grand Theft
       </Box>
     </ColorBox>
@@ -736,7 +815,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-02
+        3-04
       </Box>
     </ColorBox>
     <ColorBox>
@@ -757,7 +836,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-03
+        3-05
       </Box>
     </ColorBox>
     <ColorBox>
@@ -777,7 +856,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-04
+        3-06
       </Box>
     </ColorBox>
     <ColorBox>
@@ -798,7 +877,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-05
+        3-07
       </Box>
     </ColorBox>
     <ColorBox>
@@ -818,7 +897,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-06
+        3-08
       </Box>
     </ColorBox>
     <ColorBox>
@@ -838,7 +917,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-07
+        3-09
       </Box>
     </ColorBox>
     <ColorBox>
@@ -859,17 +938,17 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        3-08
+        3-10
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Misuse of Authority: Department Heads
+        Misuse of Authority Major
       </Box>
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        For any member of command to issue or enforce orders which would either unnecessarily harm citizens or lead to illegal actions.
+        For any department head to issue or enforce orders which would either unnecessarily harm citizens or lead to illegal actions.
       </Box>
     </ColorBox>
     <ColorBox>
@@ -879,7 +958,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-      3-10
+        3-11
       </Box>
     </ColorBox>
   </Table>
@@ -931,6 +1010,25 @@
       </Box>
     </ColorBox>
     <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          Production of Class 3 Chems
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          Producing and/or distributing Class 3 Chems without authorization
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        4-03
+        </Box>
+    </ColorBox>
+    <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
         Kidnapping
       </Box>
@@ -947,7 +1045,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        4-02
+        4-04
       </Box>
     </ColorBox>
     <ColorBox>
@@ -967,7 +1065,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        4-05
+        4-07
       </Box>
     </ColorBox>
     <ColorBox>
@@ -987,7 +1085,27 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        4-06
+        4-08
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        Misusing Authority Extreme
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        For the Overseer or Security to issue orders or take actions which lead to others breaking laws or harm to citizens. 
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        This also includes misuse of force by security
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        3-11
       </Box>
     </ColorBox>
   </Table>
@@ -1017,7 +1135,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Breach of Permanent Confinement
+        Breach of Perma
       </Box>
     </ColorBox>
     <ColorBox>
@@ -1052,7 +1170,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        5-03
+        5-05
       </Box>
     </ColorBox>
     <ColorBox>
@@ -1072,7 +1190,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        5-05
+        5-07
       </Box>
     </ColorBox>
     <ColorBox>
@@ -1092,7 +1210,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        5-06
+        5-08
       </Box>
     </ColorBox>
     <ColorBox>
@@ -1112,7 +1230,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        5-07
+        5-09
       </Box>
     </ColorBox>
   </Table>
