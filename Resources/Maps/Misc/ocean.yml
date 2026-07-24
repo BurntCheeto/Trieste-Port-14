@@ -1,11 +1,11 @@
 meta:
   format: 7
   category: Map
-  engineVersion: 267.4.0
+  engineVersion: 277.0.0
   forkId: ""
   forkVersion: ""
-  time: 11/27/2025 03:23:00
-  entityCount: 49886
+  time: 07/16/2026 23:12:55
+  entityCount: 49892
 maps:
 - 1
 grids:
@@ -125283,6 +125283,47 @@ entities:
     - type: Transform
       pos: 100.5,-119.5
       parent: 2
+- proto: TP14SignDirectionalLadder
+  entities:
+  - uid: 49888
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 69.5,-44.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
+  - uid: 49889
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 70.5,-74.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
+  - uid: 49890
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 14.5,-73.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
+  - uid: 49891
+    components:
+    - type: Transform
+      pos: 14.5,-43.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
+  - uid: 49892
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 50.5,-59.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
 - proto: TP14WallRockIndestructible
   entities:
   - uid: 9538
@@ -253009,6 +253050,15 @@ entities:
     - type: Transform
       pos: -0.5,-39.5
       parent: 2
+- proto: TPSignWaste
+  entities:
+  - uid: 49887
+    components:
+    - type: Transform
+      pos: 36.5,-56.5
+      parent: 2
+    - type: Fixtures
+      fixtures: {}
 - proto: TrashBakedBananaPeel
   entities:
   - uid: 11515
